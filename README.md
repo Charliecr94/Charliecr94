@@ -5,10 +5,11 @@ Machine Learning Engineer
 -------------------------
 
 Stoic and libertarian, passionate about learning, health, sports and life, with experience in practical implementation of AI models for small and large companies, also as a web developer and architect of AWS solutions in startup projects. Challenges amuse me, and that is why I dedicate my time to solving circumstances that add value to other people. Currently I can help you with: 
-\* Tensorflow, keras Sklearn & Pythor ML Models Deployment. 
-\* Develop apps using React Native. 
-\* Web Developer: HTML/CSS/JS/React. 
-\* UX Desing with Figma.
+
+* Tensorflow, keras Sklearn & Pythor ML Models Deployment. 
+* Develop apps using React Native. 
+* Web Developer: HTML/CSS/JS/React. 
+* UX Desing with Figma.
 
 * 🌍  I'm based in Costa rica
 * ✉️  You can contact me at [csmithu94@gmail.com](mailto:csmithu94@gmail.com)
