@@ -11,6 +11,9 @@ Stoic and libertarian, passionate about learning, health, sports and life, with 
 * Web Developer: HTML/CSS/JS/React. 
 * UX Desing with Figma.
 
+## Working on Projects <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>  
+
+
 ### Skills
 
 
