@@ -6,16 +6,10 @@ Machine Learning Engineer
 
 Stoic and libertarian, passionate about learning, health, sports and life, with experience in practical implementation of AI models for small and large companies, also as a web developer and architect of AWS solutions in startup projects. Challenges amuse me, and that is why I dedicate my time to solving circumstances that add value to other people. Currently I can help you with: 
 
-* Tensorflow, keras Sklearn & Pythor ML Models Deployment. 
+* Tensorflow, Keras, Sklearn & Pytorch ML Models Deployment. 
 * Develop apps using React Native. 
 * Web Developer: HTML/CSS/JS/React. 
 * UX Desing with Figma.
-
-* 🌍  I'm based in Costa rica
-* ✉️  You can contact me at [csmithu94@gmail.com](mailto:csmithu94@gmail.com)
-* 🚀  I'm currently working on [My own startup](http://maru.tv)
-* 🧠  I'm learning React Native
-* 🤝  I'm open to collaborating on interesting AI projects
 
 ### Skills
 
@@ -43,7 +37,15 @@ Stoic and libertarian, passionate about learning, health, sports and life, with 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/charliecr94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/carlos-smith-cr94" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+
+### About me
+
+* 🌍  I'm based in Costa rica
+* ✉️  You can contact me at [csmithu94@gmail.com](mailto:csmithu94@gmail.com)
+* 🚀  I'm currently working on [My own startup](http://maru.tv)
+* 🧠  I'm learning React Native
+* 🤝  I'm open to collaborating on interesting AI projects
