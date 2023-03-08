@@ -13,6 +13,8 @@ Stoic and libertarian, passionate about learning, health, sports and life, with 
 
 ## Working on Projects <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>  
 
+* [Take a Picture and classificate your Dog "Breed" with Tensorflow CNN & Transfer Learning](https://github.com/Charliecr94/Tensor_flow_projects/blob/main/End_to_end_Dog_Vision_Project.ipynb)
+
 
 ### Skills
 
@@ -48,7 +50,7 @@ Stoic and libertarian, passionate about learning, health, sports and life, with 
 ### About me
 
 * 🌍  I'm based in Costa rica
-* ✉️  You can contact me at [csmithu94@gmail.com](mailto:csmithu94@gmail.com)
-* 🚀  I'm currently working on [My own startup](http://maru.tv)
+* ✉️  You can contact me at my personal email [csmithu94@gmail.com](mailto:csmithu94@gmail.com)
+* 🚀  I'm currently working on [my own startup](http://maru.tv)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on interesting AI projects
