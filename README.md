@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Machine Learning Engineer
 -------------------------
 
-Stoic and libertarian, passionate about learning, health, sports and life, with experience in practical implementation of AI models for small and large companies, also as a web developer and architect of AWS solutions in startup projects. Challenges amuse me, and that is why I dedicate my time to solving circumstances that add value to other people. Currently I can help you with: 
+Stoic and libertarian, passionate about learning, health, sports and life, with experience in practical implementation of AI models, also as a web developer and architect of AWS solutions in my own startup. Challenges amuse me, and that is why I dedicate my time to solving circumstances that add value to other people. Currently I can help you with: 
 
 * Tensorflow, Keras, Sklearn & Pytorch ML Models Deployment. 
 * Develop apps using React Native. 
@@ -13,7 +13,11 @@ Stoic and libertarian, passionate about learning, health, sports and life, with 
 
 ## Working on Projects <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>  
 
-* [Take a Picture and classificate your Dog "Breed" with Tensorflow CNN & Transfer Learning](https://github.com/Charliecr94/Tensor_flow_projects/blob/main/End_to_end_Dog_Vision_Project.ipynb)
+* [Take a Picture and Classificate Your Dog "Breed" with Tensorflow CNN & Transfer Learning](https://github.com/Charliecr94/Tensor_flow_projects/blob/main/End_to_end_Dog_Vision_Project.ipynb)
+* [Twitter-Disaster-or-Not? Using NLP to Predict if a Tweet Content a Context of Disaster or Not](https://github.com/Charliecr94/Tensor_flow_projects/blob/main/NLP-on-twitter-Disaster-or-not-Disaster%20.ipynb)
+* [Price-Regression: Bulldozer Price Prediction](https://colab.research.google.com/drive/1e9m3TgR9OtAgL-MsZG_DCCthCPe9C5H3?usp=sharing)
+* [Food-Labelling: Using CNN and fine tuning to beat the original DeepFood model](https://github.com/Charliecr94/Tensor_flow_projects/blob/main/End_to_end_Food_Vision_Project.ipynb)
+* [Heart-Disease: Using Structured Data to Predict a Heart Problem](https://github.com/Charliecr94/Tensor_flow_projects/blob/main/Milestrone%20Project%201_%20Heart%20Disease%20Detection%20in%20Scikitlearn.ipynb)
 
 
 ### Skills
