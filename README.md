@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Machine Learning Engineer
 -------------------------
 
-Stoic and libertarian, passionate about learning, health, sports and life, with experience in practical implementation of AI models, also as a web developer and architect of AWS solutions in my own startup. Challenges amuse me, and that is why I dedicate my time to solving circumstances that add value to other people. Currently I can help you with: 
+Stoic and libertarian, passionate about learning, health, sports and life, with experience in practical implementation of AI models, also as a web developer and architect of AWS solutions in my  startup. Challenges amuse me, and that is why I dedicate my time to solving circumstances that add value to other people. Currently I can help you with: 
 
 * ML Models Deployment with Tensorflow, Keras, Sklearn & Pytorch. 
 * Develop apps using React Native. 
