@@ -6,7 +6,7 @@ Machine Learning Engineer
 
 Stoic and libertarian, passionate about learning, health, sports and life, with experience in practical implementation of AI models, also as a web developer and architect of AWS solutions in my own startup. Challenges amuse me, and that is why I dedicate my time to solving circumstances that add value to other people. Currently I can help you with: 
 
-* Tensorflow, Keras, Sklearn & Pytorch ML Models Deployment. 
+* ML Models Deployment with Tensorflow, Keras, Sklearn & Pytorch. 
 * Develop apps using React Native. 
 * Web Developer: HTML/CSS/JS/React. 
 * UX Desing with Figma.
