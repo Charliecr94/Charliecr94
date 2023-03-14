@@ -12,7 +12,7 @@ Stoic and libertarian, passionate about learning, health, sports, and life, with
 * UX Desing with Figma.
 
 ## Working on Projects <g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">💻</g-emoji>  
-* [NLP Model in Tensorflow to classify sentences wich appear in sequential order.](https://github.com/Charliecr94/SkimLit/blob/main/Milestone_project_2_SkimLit.ipynb)
+* [An NLP Model in Tensorflow to classify Medical sentences in sequential order.](https://github.com/Charliecr94/SkimLit/blob/main/Milestone_project_2_SkimLit.ipynb)
 * [Take a Picture and Classificate Your Dog "Breed" with Tensorflow CNN & Transfer Learning](https://github.com/Charliecr94/Tensor_flow_projects/blob/main/End_to_end_Dog_Vision_Project.ipynb)
 * [Twitter-Disaster-or-Not? Using NLP to Predict if a Tweet Content a Context of Disaster or Not](https://github.com/Charliecr94/Tensor_flow_projects/blob/main/NLP-on-twitter-Disaster-or-not-Disaster%20.ipynb)
 * [Price-Regression: Bulldozer Price Prediction](https://colab.research.google.com/drive/1e9m3TgR9OtAgL-MsZG_DCCthCPe9C5H3?usp=sharing)
