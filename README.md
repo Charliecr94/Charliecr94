@@ -55,6 +55,6 @@ Stoic and libertarian, passionate about learning, health, sports, and life, with
 
 * 🌍  I'm based in Costa rica
 * ✉️  You can contact me at my personal email [csmithu94@gmail.com](mailto:csmithu94@gmail.com)
-* 🚀  I'm currently working on [my own startup](http://maru.tv)
+* 🚀  I'm currently working on [my startup](http://maru.tv)
 * 🧠  I'm learning React Native
 * 🤝  I'm open to collaborating on interesting AI projects
